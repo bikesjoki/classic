@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://google.com/sitemapx.xml
+Sitemap: https://bikesjoki.github.io/classic/sitemapx.xml
